@@ -1,0 +1,4 @@
+artifact_location: /mlruns/7
+experiment_id: '7'
+lifecycle_stage: active
+name: Comparison of gradient exact and sample variance with different shotcounts
